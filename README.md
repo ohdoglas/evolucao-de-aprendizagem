@@ -11,6 +11,7 @@
 - Métodos Arrays
   ### Aulas de Carreira
 - Gestão de Tempo
+- Ética em Tecnologia
 - Cúrriculo e Carta de Apresentação
 - LinkedIn
 
@@ -21,6 +22,18 @@
 
 
 ## Learning Tasks: O que quero aprender sobre os assuntos que serão abordados no módulo?
+#### - Funções:
+  Como implementar funções no código para simplifcação, melhor execução e leitura do mesmo.
+#### - Gestão de Tempo:
+  Como melhor gerir o tempo, seja para o dia, para a semana, mês ou ano. Quais ferramentas e métodos devo usar no meu dia a dia para ter maior produtividade e como aplicar isso a carreira Dev, estudos e lazer?
+#### - Currículo e Carta de Apresentação:
+  Quais as melhores formas de "se vender" durante a criação do tão requisitado e temido currículo? Como devem ser organizadas as informações pessoais e profissionais? O que vale a pena ou não ser seguido diante a tantas dicas encontradas na internet?
+#### - LinkedIn:
+  Sobre LinkedIn tenho interesse em me aprofundar em como melhor geri-lo e melhor utiliza-lo durante o dia a dia e também como devo prosseguir na busca por uma vaga na área de tecnologia. Entender como se fazem os recrutamentos, como agem os recrutadores e como melhor alcança-los.
+#### - Ética em Tecnologia:
+  Quero aprender como seguir na area de desenvolvimento da forma mais etica possível e ter um maior aprofundamento de como proporcionar uma boa experiência a todos que poderão ser atingidos pelos trabalhos e projetos em que atuarei.
+
+    
 
 
 ## Current Evolution: O que aprendi sobre os assuntos que foram abordados no módulo?
