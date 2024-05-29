@@ -19,6 +19,10 @@
 
 ## Progresso atual no conteudo do módulo
 
+  A sensação de progresso durante os módulos tem sido muito animadora, sinto que a cada aula, revisão ou contato com a monitoria minhas habilidades como desenvolvedor florescem. Aspectos mais especificos de observação e leitura de códigos tem ajudado a criar algoritimos mais simples e funcionais, pensar de modo lógico também tem sido mais facil e tem acarretado em alguns momentos em pensar por menos tempo e de certa forma, também acarretado a pensar *mais*, pois, as possibilidades de escopos de códigos foram incrementadas.
+
+  As aulas de carreira trazem maior segurança e fazem com que novos caminhos se abram. A cada aula e discussão tenho me sentido mais encaminhando a como procurar um emprego na aerea e mais apto a possíveis candidaturas. As aulas de carreira tem sido muito importante para moldar aspectos profissionais e pessoais para desenvolvimento da minha carreira.   
+
 
 
 ## Learning Tasks: O que quero aprender sobre os assuntos que serão abordados no módulo?
