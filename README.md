@@ -43,8 +43,7 @@
 
 
 ## Current Evolution: O que aprendi sobre os assuntos que foram abordados no módulo?
-<img src="https://1.bp.blogspot.com/_0dfdRxeP5M0/TUmoK5sNaCI/AAAAAAAAACk/TbQ3fEG9g8g/s1600/evolution.jpg" width="250" height="150">
-
+### Módulo 2
 #### - Funções:
   Aprendi que o uso de funções é muito importante na construção de códigos em que se é necessário a reutilização de instruções e algoritimos. Funções como subprogramas facilitam o desenvolvimento, reduzindo a necessidade repetir o mesmo escopo de código varias vezes. Pude incrementar um projeto pessoal de calculo de necessidade minímo diário de água usando o que aprendi sobre funções, um simples clique em um botão chama uma função que carrega algoritimos de calculo, usando informações passadas no formulário. https://j-water.netlify.app/
 
@@ -65,3 +64,29 @@
 
 #### - Ética em Tecnologia
   Ética em Tecnologia é um assunto complexo e pude aprender, diante do que foi abordado, que a manipulação de dados de pessoas ou empresas, deve ser feita de forma cautelosa e deve-se sempre estar atento a aspectos de privacidade, regulamentos e normas, sejam elas geridas por governo ou empresas. A aula mostrou que os avanços na tecnologia vem sempre com algum paradigma ou assunto complexo referente a ética, o que me levou a conclusão de que o assunto sempre será abrangido e que devemos estar sempre a par de boas praticas e dispostos a entender novos conceitos de Etica em Tecnologia.
+
+### Módulo 3
+
+#### - Testes Automatizados, Jest
+  Neste conceito em desenvolvimento de programas, pude aprender a importância dos testes automatizados para assegurar um código integro e responsivo, como encontrar bugs e se previnir de erros críticos de desenvolvimento. Conheci a biblioteca Jest, muito benéfica para criação de testes, pois tem configuração simples e execução rápida, suporte à Type Script e variados tipos de testes como Testes Unitários para unidades individuais de código e Testes de Integração que testam a interação entre diferentes partes do sistema.
+
+#### - Servidores, Node.JS, Fastify e Express
+  Pude aprender sobre os conceitos básicos de implementações de servidores com Node.JS e também as diferentes formas de como podemos configura-los tendo em vista as ferramentas disponíveis como o Fastify e Express. Aprendi os conceitos de requisições HTTP/HTTPS, como elas interagem com o servidor e como as respostas são geradas.
+
+#### - Rotas, Intermediários e Controladores
+  Aprendi sobre como configurar um servidor com Express para criação de API's, conheci os conceitos de Rotas, Controladores e Intermediários e como usa-los da melhor forma na criação de servidores.
+
+#### - API REST
+  No conceito de API's REST(Representational State Transfer) aprendi sobre arquitetura para projetar serviços web. Como API's REST permitem que diferentes sistemas de software se comuniquem pela internet usando operações HTTP de uma forma padronizada e como construir serviços mais robustos, escaláveis e fáceis de manter. Em relação a seus beneficios, pude compreender a importancia da escalabilidade, que é a separação entre cliente e servidor que permite que cada um seja escalado indepndentemente, da flexibilidade, que é um beneficio de poder ser consumida por qualquer cliente que consiga fazer requisições HTTP, como navegadores web, aplicativos móveis e outros serviços web e a manutenibilidade, que é a uniformidade da interface e a separação de preocupações que tornam o sistema mais fácil de se manter e evoluir.
+  Pude aprender sobre recursos e como trata-los, conceitos de transmissão de dados por JSON, métodos de requisição e como serão suas respostas, códigos de resposta de status, como usa-los e como interpreta-los. Aprendi sobre padronizações na construção de API's REST entre outros conceitos para construção de programas usando boas práticas REST.
+
+#### - Orientação a Objetos
+  No paradigma de programação orientada a objetos pude aprender conceitos sólidos de programação, como implementar os pilares da lógica orientada a objetos no desenvolvimento de programas, conceito de classes e objetos, a diferença entre métodos e atributos de classes e uso de métodos contrutores em classes.
+
+#### - Assincronismo e Leitura e Escrita em Arquivos
+  Neste conceito, pude aprender a diferenação entre códigos sincronos e assincronos, conceitos de Promises em programação assincrona e seus métodos (async, then(), catch() e finally()). Pude aprender sobre leitura e escrita em arquivos para persistencia de dados e manipulação dos mesmo usando a biblioteca FS - File System, conceito de Buffer, como usar a biblioteca de forma sincrona e assincrona, pude manipular dados JSON e como converte-los. Também pude aprender sobre TDD(Test Driven Development) e como pode ser util uma abordagem de criação de códigos começando por teste antes de começar o código em si.
+
+#### - Tratamento de Erros com Herança e Polimorfismo
+  Pude conhecer Interfaces e suas regras de implementação na construção de programas. Me aprofundei nos conceitos de Herança e Polimorfismo, pilares da Lógica Orientada a Objetos, suas regras de implementação e como a utilização desses conceitos são benéficos para o programa e como aceleram seu desenvolvimento. Pude aprender sobre novos conceitos na criação de classes como os termos Protected, Extends, Public, Private e Super(). Aprendi sobre as regras de implementação do Polimorfismo no desenvolvimento de códigos e também como tratar erros usando Try/Catch e Throw.
+
+
