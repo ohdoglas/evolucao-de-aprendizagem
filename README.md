@@ -43,7 +43,7 @@
 
 
 ## Current Evolution: O que aprendi sobre os assuntos que foram abordados no módulo?
-### Módulo 2
+## Módulo 2
 #### - Funções:
   Aprendi que o uso de funções é muito importante na construção de códigos em que se é necessário a reutilização de instruções e algoritimos. Funções como subprogramas facilitam o desenvolvimento, reduzindo a necessidade repetir o mesmo escopo de código varias vezes. Pude incrementar um projeto pessoal de calculo de necessidade minímo diário de água usando o que aprendi sobre funções, um simples clique em um botão chama uma função que carrega algoritimos de calculo, usando informações passadas no formulário. https://j-water.netlify.app/
 
@@ -65,7 +65,7 @@
 #### - Ética em Tecnologia
   Ética em Tecnologia é um assunto complexo e pude aprender, diante do que foi abordado, que a manipulação de dados de pessoas ou empresas, deve ser feita de forma cautelosa e deve-se sempre estar atento a aspectos de privacidade, regulamentos e normas, sejam elas geridas por governo ou empresas. A aula mostrou que os avanços na tecnologia vem sempre com algum paradigma ou assunto complexo referente a ética, o que me levou a conclusão de que o assunto sempre será abrangido e que devemos estar sempre a par de boas praticas e dispostos a entender novos conceitos de Etica em Tecnologia.
 
-### Módulo 3
+## Módulo 3
 
 #### - Testes Automatizados, Jest
   Neste conceito em desenvolvimento de programas, pude aprender a importância dos testes automatizados para assegurar um código integro e responsivo, como encontrar bugs e se previnir de erros críticos de desenvolvimento. Conheci a biblioteca Jest, muito benéfica para criação de testes, pois tem configuração simples e execução rápida, suporte à Type Script e variados tipos de testes como Testes Unitários para unidades individuais de código e Testes de Integração que testam a interação entre diferentes partes do sistema.
@@ -88,5 +88,13 @@
 
 #### - Tratamento de Erros com Herança e Polimorfismo
   Pude conhecer Interfaces e suas regras de implementação na construção de programas. Me aprofundei nos conceitos de Herança e Polimorfismo, pilares da Lógica Orientada a Objetos, suas regras de implementação e como a utilização desses conceitos são benéficos para o programa e como aceleram seu desenvolvimento. Pude aprender sobre novos conceitos na criação de classes como os termos Protected, Extends, Public, Private e Super(). Aprendi sobre as regras de implementação do Polimorfismo no desenvolvimento de códigos e também como tratar erros usando Try/Catch e Throw.
+
+
+## Módulo 4
+#### - Introdução a Docker e Docker Compose
+  Aprendi sobre os conceitos básicos de Docker e como esta ferramenta de virtualização a nível de sistema pode ser util para desenvolvimento de aplicações e tratamento de banco de dados. Pude aprender sobre imagens e conteiners, como criar e manipula-los, me aprofundei nos conceitos de persistência de dados com criação de volumes para armazenamento de dados. Aprendi sobre conceitos de Docker Compose, como gerenciar serviços, redes e volumes atraveś de configuração em arquivos YAML. 
+
+#### - Introdução a Banco de Dados
+  Sobre Banco de Dados pude me aprofundar em conceitos do que são Bancos de Dados e suas principais responsabilidades, como o armazenamento de dados, persistência e sua segurança, como deve-se organizar e gerenciar tais dados e como ele pode responder a perguntas de usuários ou interações do sistema. Pude aprender sobre a diferença de Bancos de Dados e SGBD (Sistema Gerenciador de Banco de Dados), também a diferença entre Bancos de Dados Relacionais (SQL) e Não-Relacionais (noSQL). Pude fazer comparações para diferenciar Bancos de Dados com bases tradicionais e análiticas. Pude compreender os conceitos de chave primária e schema. Aprendi sobre o uso da linguagem SQL utilizando o PostgreSQL interagindo e criando meu primeiro banco de dados e fazendo também a primeira consulta.
 
 
