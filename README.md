@@ -1,22 +1,6 @@
 # Evolução de Aprendizagem - Douglas Farias Nunes de Morais
 
 ![](https://camo.githubusercontent.com/ae00021ed8488fa363df12ba3d37abf7b93e43652c67ad33edfc071bb029e17c/68747470733a2f2f692e696d6775722e636f6d2f78473734744f682e706e67)
-
-## Conteúdos abordados no módulo:
-### Lógica de Programação e Códigos (JS e TS)
-- Funções
-- Tipos de Dados
-- Tipos Utilitários
-- Métodos Strings
-- Métodos Arrays
-  ### Aulas de Carreira
-- Gestão de Tempo
-- Ética em Tecnologia
-- Cúrriculo e Carta de Apresentação
-- LinkedIn
-
-
-
 ## Progresso atual no conteudo do módulo
 
   A sensação de progresso durante os módulos tem sido muito animadora, sinto que a cada aula, revisão ou contato com a monitoria minhas habilidades como desenvolvedor florescem. Aspectos mais especificos de observação e leitura de códigos tem ajudado a criar algoritimos mais simples e funcionais, pensar de modo lógico também tem sido mais facil e tem acarretado em alguns momentos em pensar por menos tempo e de certa forma, também acarretado a pensar *mais*, pois, as possibilidades de escopos de códigos foram incrementadas.
@@ -96,5 +80,8 @@
 
 #### - Introdução a Banco de Dados
   Sobre Banco de Dados pude me aprofundar em conceitos do que são Bancos de Dados e suas principais responsabilidades, como o armazenamento de dados, persistência e sua segurança, como deve-se organizar e gerenciar tais dados e como ele pode responder a perguntas de usuários ou interações do sistema. Pude aprender sobre a diferença de Bancos de Dados e SGBD (Sistema Gerenciador de Banco de Dados), também a diferença entre Bancos de Dados Relacionais (SQL) e Não-Relacionais (noSQL). Pude fazer comparações para diferenciar Bancos de Dados com bases tradicionais e análiticas. Pude compreender os conceitos de chave primária e schema. Aprendi sobre o uso da linguagem SQL utilizando o PostgreSQL interagindo e criando meu primeiro banco de dados e fazendo também a primeira consulta.
+
+#### - Consultas SQL
+  Pude aprender sobre DUMP e sua utilidade como arquivo SQL, aprendi novas configurações básicas de arquivo YML para criação de conteiner. Aprendi a utilizar Operadores Lógicos AND, OR e NOT juntamente com a clausula WHERE, entendi como posso usar Operadores de Comparação para fazer verificações no banco de dados, pude utilizar também os Predicados de Comparação para entender sua utilidade e diferença em comparação ao Operadores Simples de Comparação. Aprendi a ordenar minhas consultas com a clausula ORDER BY, pude entender os usos do LIMIT(FETCH) e OFFSET. Aprendi a fazer consultas eliminando duplicidades com SELECT DISTINCT. Pude trabalhar com Operadores Matemáticos e também entender como funcionam e possíveis usos das Funções Matemáticas para consultas SQL. Utilizei de forma prática Operadores e Funções designadas para strings e entendi a utilidade da Conversão de Tipos em algumas consultas e por fim pude também aprender alguns comandos básicos para manipulação e consultas de datas.
 
 
